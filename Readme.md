@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manjunadha Abhinai</h1>
-- 🌱 I’m currently learning **Go, React**
 
+- 🌱 I’m currently learning **Go, React**
 - 💬 Ask me about **Node Js**
 
 - 📫 How to reach me **kmabhinai@gmail.com**
